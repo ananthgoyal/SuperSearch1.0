@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: /Users/ananthgoyal/Desktop/SourceExtractor/src/com/Ananth/
+ se/SourceExtractor.java
+Main-Class: com.Ananth.se.SourceExtractor
+
